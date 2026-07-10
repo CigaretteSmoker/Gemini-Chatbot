@@ -58,8 +58,8 @@ Arsitektur aplikasi dibagi menjadi 3 lapisan (*layers*) utama untuk memastikan k
 
 ### 1. Kloning Repositori
 ```bash
-git clone https://github.com/username/nama-repositori.git
-cd nama-repositori
+git clone https://github.com/CigaretteSmoker/Gemini-Chatbot.git
+cd Gemini-Chatbot
 ```
 
 ### 2. Pasang Dependensi
@@ -87,7 +87,7 @@ Anda dapat menyimpan API Key langsung di dalam *environment variable* sistem ope
 ### 4. Jalankan Aplikasi
 Jalankan berkas utama Python:
 ```bash
-python ai_studio_code.py
+python chat.py
 ```
 
 ---
